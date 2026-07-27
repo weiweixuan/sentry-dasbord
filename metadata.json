@@ -1,0 +1,6 @@
+{
+  "name": "Sentry 异常数据可视化分析看板",
+  "description": "多维度 Sentry 报错数据分析面板，包含 Web 端 (cmm-sass-web) 与 移动端 (cmm-mobile-end) 的异常分类、影响用户数、事件数、高频 Culprit 归因及趋势对比",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
